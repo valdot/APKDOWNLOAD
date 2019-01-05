@@ -41,7 +41,7 @@ def home():
        ╩ ╩╩  ╩ ╩'''+w+'''  ═╩╝└─┘└┴┘┘└┘┴─┘└─┘┴ ┴─┴┘└─┘┴└─''')
       print(h+'#'*55)
       print(w+'[+]CREATOR: MR.TVM4'.center(55))
-      print(w+'[+]MY SOSMED'.center55))
+      print(w+'[+]MY SOSMED'.center(55))
       print(w+'[+]FACEBOOK: ImanuelTaroreh'.center(55))
       print(w+'[+]INSTAGRAM: valdotaroreh19'.center(55))
       print(w+'[+]GITHUB: https://github.com/valdot'.center(55))
